@@ -23,11 +23,11 @@ namespace App05MonoGame
     /// style game where the player moves around collecting
     /// random coins and the enemy tries to catch the player.
     /// 
-    /// Last Updated 7th June 2021
+    /// Last Updated 16/08/22
     /// 
     /// </summary>
     /// <authors>
-    /// Derek Peacock & Andrei Cruceru
+    /// Jake Stewart
     /// </authors>
     public class App05Game : Game
     {
@@ -36,9 +36,9 @@ namespace App05MonoGame
         public const int Game_Height = 720;
         public const int Game_Width = 1280;
 
-        public const string GameName = "Game Name";
+        public const string GameName = "Coins/Asteroids";
         public const string ModuleName = "BNU CO453 2021";
-        public const string AuthorNames = "Derek & Andrei";
+        public const string AuthorNames = "Jake Stewart";
         public const string AppName = "App05: C# MonoGame";
 
         #endregion
